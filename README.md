@@ -1,6 +1,6 @@
 ### 👋 Hi there welcome 👋
 
-<!--
+
 **davidie21/davidie21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 💬 Ask me about anything software development
