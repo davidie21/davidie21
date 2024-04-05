@@ -20,7 +20,7 @@ Hello there! I'm David, a passionate software and frontend developer based in Lu
 
 ## Connect with Me
 
-- LinkedIn: http://wwww.linkedin.com/in/david-mbewe
+LinkedIn: http://wwww.linkedin.com/in/david-mbewe
 
 Feel free to explore my repositories and get in touch!
 
